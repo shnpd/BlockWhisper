@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8ee487c-d32f-4562-8a3f-c92b8bedc7e7" name="blockwhisper">
+        <fileTransfer accessType="SFTP" host="10.9.0.246" port="22" sshConfigId="bdc492cd-0295-4267-9bed-62ae96a64583" sshConfig="root@10.9.0.246:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
